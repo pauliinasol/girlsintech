@@ -1,0 +1,26 @@
+.fashionimage {
+  max-width: 100%;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+.navbar-default {
+  margin-bottom: 0px !important;
+}
+
+.padding {
+  padding: 20px;
+}
+
+.between {
+  background-color: silver;
+  height: 200px;
+}
+
+.textstyle {
+  text-align: justify;
+}
+
+/*font-family: 'Roboto', sans-serif;*/
